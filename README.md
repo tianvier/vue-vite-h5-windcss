@@ -1,6 +1,12 @@
 # vue-vite-h5-windcss
 
-修改https://github.com/LZHD/vue-vite-h5
+### 使用模板
+
+```
+npx degit tianvier/vue-vite-h5-windcss project_name
+```
+
+修改于https://github.com/LZHD/vue-vite-h5
 
 ### npm 7
 ```
